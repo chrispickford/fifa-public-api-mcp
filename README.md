@@ -61,8 +61,8 @@ Every tool accepts two optional args: `raw` (default `false`; return FIFA's unto
 | `list_seasons` | `idCompetition`, `count?` | `[{idSeason, name, startDate, endDate}]` |
 | `get_season` | `idSeason` | `{idSeason, name, dates, memberAssociations[], hostTeams[], pictureUrls}` |
 | `list_stages` | `idCompetition`, `idSeason` | `[{idStage, name}]` |
-| `list_countries` | — | `[{idCountry, name}]` |
-| `list_confederations` | — | `[{idConfederation, name}]` |
+| `list_countries` |  | `[{idCountry, name}]` |
+| `list_confederations` |  | `[{idConfederation, name}]` |
 | `get_matches` | `idCompetition`, `idSeason`, `idStage?`, `idGroup?`, `count?` | `{matches:[…]}` (see pagination note) |
 | `get_match_timeline` | `idCompetition`, `idSeason`, `idStage`, `idMatch` | `{idMatch, events:[…]}` |
 | `get_live_match` | `idCompetition`, `idSeason`, `idStage`, `idMatch` | `{idMatch, status, score, home, away, officials, attendance, weather}` |
@@ -101,8 +101,8 @@ derives the stage/match/team/stadium IDs it needs from live responses.
 
 ## Architecture
 
-- `src/client.ts` — the only module that touches the network; encodes the base-API conventions
+- `src/client.ts`: the only module that touches the network; encodes the base-API conventions
   (browser User-Agent, language default, 15s timeout) and throws a structured `FifaApiError`.
-- `src/shape.ts` — pure response normalizers; no I/O, fully unit-tested.
-- `src/tools.ts` — tool definitions (zod input schemas) and handlers wiring client → shape.
-- `src/index.ts` — bootstrap: register tools, connect `StdioServerTransport`.
+- `src/shape.ts`: pure response normalizers; no I/O, fully unit-tested.
+- `src/tools.ts`: tool definitions (zod input schemas) and handlers wiring client → shape.
+- `src/index.ts`: bootstrap: register tools, connect `StdioServerTransport`.
