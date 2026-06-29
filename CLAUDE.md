@@ -4,11 +4,9 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Project status
 
-**Implemented and verified** (2026-06-29): all four `src/` layers, 28 passing unit tests, and a
-live smoke test that hits all 12 tools. The approved design spec at
-`docs/superpowers/specs/2026-06-29-fifa-public-api-mcp-design.md` remains the source of truth for
-*why* things are the way they are (and records the live-API investigation). The notes below
-summarize the cross-file decisions so you don't have to re-derive them.
+**Implemented and verified**: all four `src/` layers, 33 passing unit tests, and a live smoke test
+that hits all 12 tools. The notes below summarize the cross-file decisions so you don't have to
+re-derive them.
 
 ## What this is
 
