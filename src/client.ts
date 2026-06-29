@@ -10,7 +10,7 @@ const TIMEOUT_MS = 15_000;
 const USER_AGENT =
   "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36";
 
-export type FifaErrorReason = "timeout" | "http" | "unexpected-null" | "network";
+export type FifaErrorReason = "timeout" | "http" | "unexpected-null" | "network" | "invalid-json";
 
 export class FifaApiError extends Error {
   readonly reason: FifaErrorReason;
@@ -65,7 +65,14 @@ export async function fifaFetch(path: string, params: QueryParams = {}, language
   }
 
   // Some endpoints legitimately return literal `null`; hand it back for the caller to interpret.
-  return text.trim().length === 0 ? null : JSON.parse(text);
+  if (text.trim().length === 0) return null;
+  try {
+    return JSON.parse(text);
+  } catch {
+    // A 2xx with a non-JSON body (e.g. an Akamai HTML interstitial) must surface as a structured
+    // error, not a raw SyntaxError that escapes the FifaApiError contract.
+    throw new FifaApiError({ reason: "invalid-json", path, status: response.status, bodyExcerpt: text.slice(0, 200) });
+  }
 }
 
 /**
