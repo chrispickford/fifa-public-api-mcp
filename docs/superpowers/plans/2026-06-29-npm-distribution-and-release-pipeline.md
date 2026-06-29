@@ -13,12 +13,12 @@
 - Node floor is **18** (relies on built-in `fetch`); CI matrix is **18 and 22**.
 - Package name is exactly **`fifa-public-api-mcp`** (unscoped, public).
 - License is **MIT** (© 2026 Chris Pickford).
-- Publish auth is **OIDC trusted publishing** — never add a `NODE_AUTH_TOKEN`/`NPM_TOKEN` secret or `--no-gpg-sign`.
+- Publish auth is **OIDC trusted publishing**: never add a `NODE_AUTH_TOKEN`/`NPM_TOKEN` secret or `--no-gpg-sign`.
 - Publish is triggered only by a **GitHub Release `published`** event; CI runs on push/PR.
 - The publish workflow must **hard-fail** if the release tag (`vX.Y.Z`) does not equal `package.json` `version`.
 - Public access + provenance come from `publishConfig` so CI and manual publishes behave identically.
 - The live `npm run smoke` test is **never** added to CI (depends on FIFA uptime/network).
-- Do not change the existing `bin`, `files`, `type`, or `engines` fields — they are already correct.
+- Do not change the existing `bin`, `files`, `type`, or `engines` fields; they are already correct.
 - Never use the em-dash character in any file content; use commas, semicolons, colons, or parentheses.
 - Commits are SSH-signed; signing is already configured and working in this repo.
 

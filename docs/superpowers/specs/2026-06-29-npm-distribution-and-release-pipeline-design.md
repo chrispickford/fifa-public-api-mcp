@@ -46,7 +46,7 @@ automation around it.
 
 ### 1. `package.json` metadata + packaging hardening
 
-Additive only — no changes to the existing `bin`, `files`, `type`, or `engines` fields, which are
+Additive only: no changes to the existing `bin`, `files`, `type`, or `engines` fields, which are
 already correct.
 
 - **Registry metadata** (so the npm page is complete and trustworthy):
@@ -56,13 +56,13 @@ already correct.
   - `author`: `Chris Pickford`
   - `license`: `MIT`
   - `keywords`: `["mcp", "model-context-protocol", "fifa", "football", "soccer"]`
-- **`publishConfig`**: `{ "access": "public", "provenance": true }` — makes public access and
+- **`publishConfig`**: `{ "access": "public", "provenance": true }`: makes public access and
   provenance the default for *any* publish (CI or manual), so the behavior can't drift between them.
-- **`prepack` script**: `"prepack": "npm run build"` — guarantees `build/` is freshly compiled
+- **`prepack` script**: `"prepack": "npm run build"`: guarantees `build/` is freshly compiled
   whenever a tarball is created, so a stray manual `npm publish` cannot ship stale output. CI also
   builds explicitly (belt and suspenders).
 
-### 2. CI workflow — `.github/workflows/ci.yml`
+### 2. CI workflow: `.github/workflows/ci.yml`
 
 - **Triggers:** `push` and `pull_request`.
 - **Strategy:** matrix over Node `18` and `22`.
@@ -71,21 +71,21 @@ already correct.
 - The unit tests are network-free and CI-safe by design (see project `CLAUDE.md`). The live
   `npm run smoke` test is **not** run in CI (it depends on FIFA uptime and real network).
 
-### 3. Publish workflow — `.github/workflows/publish.yml`
+### 3. Publish workflow: `.github/workflows/publish.yml`
 
 - **Trigger:** `release` with `types: [published]`.
 - **Permissions:** `id-token: write` (required for OIDC) and `contents: read`.
 - **Steps:**
   1. Checkout (at the release tag).
   2. `actions/setup-node` with `registry-url: https://registry.npmjs.org`, Node 22.
-  3. `npm install -g npm@latest` — trusted publishing requires npm ≥ 11.5, newer than the version
+  3. `npm install -g npm@latest`: trusted publishing requires npm ≥ 11.5, newer than the version
      bundled on GitHub-hosted runners.
   4. **Version guard:** derive the version from the release tag (`v0.2.0` → `0.2.0`) and compare to
      `node -p "require('./package.json').version"`. If they differ, fail immediately with a clear
      message, before any build or publish.
   5. `npm ci` → `npm run build` → `npm test` (re-verify on the exact released commit).
   6. `npm publish`. Public access and `--provenance` come from `publishConfig`; no `NODE_AUTH_TOKEN`
-     is set — OIDC handles authentication and records the provenance attestation.
+     is set; OIDC handles authentication and records the provenance attestation.
 
 ### 4. README update
 
@@ -96,7 +96,7 @@ already correct.
   section (still accurate, just no longer the headline path).
 - Optional: an npm-version shield badge linking to the package.
 
-## One-time manual setup (runbook — performed by the maintainer, not automated)
+## One-time manual setup (runbook; performed by the maintainer, not automated)
 
 These steps are done once, by hand, and are intentionally outside the workflows:
 
@@ -134,7 +134,7 @@ These steps are done once, by hand, and are intentionally outside the workflows:
 - Docker image distribution.
 - Claude Desktop `.mcpb` / DXT one-click bundle.
 - Automated changelog generation.
-- `semantic-release` / automated version bumping — version bumps stay manual for predictability.
+- `semantic-release` / automated version bumping; version bumps stay manual for predictability.
 - Publishing the live smoke test into CI.
 
 Each of these is easy to add later if a need appears; none is required for the one-line-install goal.
