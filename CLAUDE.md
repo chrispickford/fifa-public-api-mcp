@@ -28,7 +28,7 @@ data without rediscovering the endpoints.
 - Run a single test: `npx vitest run test/shape.test.ts -t "<test name>"`.
 - Install into a client: `claude mcp add fifa -- node /abs/path/build/index.js`.
 
-Runtime is **Node 18+** (relies on built-in `fetch`). Package is `type: module`.
+Runtime is **Node 22+** (relies on built-in `fetch`). Package is `type: module`.
 
 ## Architecture (the big picture)
 
