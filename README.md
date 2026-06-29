@@ -11,23 +11,43 @@ No API key or auth is required. The server speaks **stdio** only.
 
 - Node **18+** (uses built-in `fetch`).
 
-## Install & build
+## Install (no clone, no build)
 
-```bash
-npm install
-npm run build      # compiles TS to build/index.js (with shebang + executable bit)
-```
-
-## Add to a client
+The server is published to npm and runs via `npx`, so there is nothing to clone or compile.
 
 Claude Code:
 
 ```bash
-claude mcp add fifa -- node /absolute/path/to/build/index.js
+claude mcp add fifa -- npx -y fifa-public-api-mcp
 ```
 
-For Claude Desktop, add an entry to `mcpServers` in the config pointing `command: "node"` at the
-absolute path of `build/index.js`.
+Claude Desktop: add this to `mcpServers` in your config:
+
+```json
+{
+  "mcpServers": {
+    "fifa": {
+      "command": "npx",
+      "args": ["-y", "fifa-public-api-mcp"]
+    }
+  }
+}
+```
+
+`npx` downloads and caches the package on first use; later runs are offline-fast. Requires Node 18+
+on the PATH.
+
+## Develop from source
+
+```bash
+git clone https://github.com/chrispickford/fifa-public-api-mcp.git
+cd fifa-public-api-mcp
+npm install
+npm run build      # compiles TS to build/index.js (with shebang + executable bit)
+```
+
+Then point a client at the local build with an absolute path, e.g.
+`claude mcp add fifa-dev -- node /absolute/path/to/build/index.js`.
 
 ## Tools
 
