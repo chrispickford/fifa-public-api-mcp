@@ -1,0 +1,984 @@
+{
+  "IdMatch": "400021443",
+  "IdStage": "289273",
+  "IdGroup": "289275",
+  "IdSeason": "285023",
+  "CoverageLevel": null,
+  "IdCompetition": "17",
+  "CompetitionName": [
+    {
+      "Locale": "en-GB",
+      "Description": "FIFA World Cup™"
+    }
+  ],
+  "SeasonName": [
+    {
+      "Locale": "en-GB",
+      "Description": "FIFA World Cup 2026™"
+    }
+  ],
+  "SeasonShortName": [],
+  "Stadium": {
+    "IdStadium": "400222084",
+    "Name": [
+      {
+        "Locale": "en-GB",
+        "Description": "Mexico City Stadium"
+      }
+    ],
+    "Capacity": null,
+    "WebAddress": null,
+    "Built": null,
+    "Roof": false,
+    "Turf": null,
+    "IdCity": "400222094",
+    "CityName": [
+      {
+        "Locale": "en-GB",
+        "Description": "Mexico City"
+      }
+    ],
+    "IdCountry": "MEX",
+    "PostalCode": null,
+    "Street": null,
+    "Email": null,
+    "Fax": null,
+    "Phone": null,
+    "AffiliationCountry": null,
+    "AffiliationRegion": null,
+    "Latitude": null,
+    "Longitude": null,
+    "Length": null,
+    "Width": null,
+    "Properties": {
+      "IdIFES": "5000118"
+    },
+    "IsUpdateable": null
+  },
+  "ResultType": 1,
+  "MatchDay": null,
+  "MatchNumber": 1,
+  "HomeTeamPenaltyScore": null,
+  "AwayTeamPenaltyScore": null,
+  "AggregateHomeTeamScore": null,
+  "AggregateAwayTeamScore": null,
+  "Weather": {
+    "Humidity": null,
+    "Temperature": null,
+    "WindSpeed": null,
+    "Type": null,
+    "TypeLocalized": []
+  },
+  "Attendance": "80824",
+  "Date": "2026-06-11T19:00:00Z",
+  "LocalDate": "2026-06-11T13:00:00Z",
+  "MatchTime": "98'",
+  "SecondHalfTime": null,
+  "FirstHalfTime": null,
+  "FirstHalfExtraTime": null,
+  "SecondHalfExtraTime": null,
+  "Winner": "43911",
+  "Period": 10,
+  "HomeTeam": {
+    "Score": 2,
+    "Side": null,
+    "IdTeam": "43911",
+    "PictureUrl": "https://api.fifa.com/api/v3/picture/flags-{format}-{size}/MEX",
+    "IdCountry": "MEX",
+    "TeamType": 1,
+    "AgeType": 7,
+    "Tactics": "4-1-2-3",
+    "TeamName": [
+      {
+        "Locale": "en-GB",
+        "Description": "Mexico"
+      }
+    ],
+    "Abbreviation": "MEX",
+    "Coaches": [
+      {
+        "IdCoach": "178119",
+        "IdCountry": "MEX",
+        "PictureUrl": null,
+        "Name": [
+          {
+            "Locale": "en-GB",
+            "Description": "Rafael MARQUEZ"
+          }
+        ],
+        "Alias": [
+          {
+            "Locale": "en-GB",
+            "Description": "Rafael MARQUEZ"
+          }
+        ],
+        "Role": 1,
+        "SpecialStatus": null
+      },
+      {
+        "IdCoach": "45078",
+        "IdCountry": "MEX",
+        "PictureUrl": "https://digitalhub.fifa.com/transform/b36d8467-71b2-45e2-a681-dfb7e80a9ada/AGUIRRE-Javier_45078",
+        "Name": [
+          {
+            "Locale": "en-GB",
+            "Description": "Javier Aguirre Onaindía"
+          }
+        ],
+        "Alias": [
+          {
+            "Locale": "en-GB",
+            "Description": "Javier AGUIRRE"
+          }
+        ],
+        "Role": 0,
+        "SpecialStatus": null
+      },
+      {
+        "IdCoach": "439543",
+        "IdCountry": "ESP",
+        "PictureUrl": null,
+        "Name": [
+          {
+            "Locale": "en-GB",
+            "Description": "Antonio Amor Fernández"
+          }
+        ],
+        "Alias": [
+          {
+            "Locale": "en-GB",
+            "Description": "Antonio AMOR"
+          }
+        ],
+        "Role": 1,
+        "SpecialStatus": null
+      }
+    ],
+    "Players": [
+      {
+        "IdPlayer": "485070",
+        "IdTeam": "43911",
+        "ShirtNumber": 1,
+        "Status": 1,
+        "SpecialStatus": null,
+        "Captain": false,
+        "PlayerName": [
+          {
+            "Locale": "en-GB",
+            "Description": "Raul RANGEL"
+          }
+        ],
+        "ShortName": [
+          {
+            "Locale": "en-GB",
+            "Description": "Raul RANGEL"
+          }
+        ],
+        "Position": 0,
+        "PlayerPicture": {
+          "Id": "3EA092AE-841D-4DC6-9CA078EB4DFB97C7",
+          "PictureUrl": "https://digitalhub.fifa.com/transform/3ea092ae-841d-4dc6-9ca0-78eb4dfb97c7/RANGEL-Raul_485070"
+        },
+        "FieldStatus": 0,
+        "LineupX": null,
+        "LineupY": null
+      },
+      {
+        "IdPlayer": "395516",
+        "IdTeam": "43911",
+        "ShirtNumber": 3,
+        "Status": 1,
+        "SpecialStatus": null,
+        "Captain": true,
+        "PlayerName": [
+          {
+            "Locale": "en-GB",
+            "Description": "Cesar MONTES"
+          }
+        ],
+        "ShortName": [
+          {
+            "Locale": "en-GB",
+            "Description": "Cesar MONTES"
+          }
+        ],
+        "Position": 1,
+        "PlayerPicture": {
+          "Id": "C8C3FA3A-9001-4221-AB3C754158C0AD8A",
+          "PictureUrl": "https://digitalhub.fifa.com/transform/c8c3fa3a-9001-4221-ab3c-754158c0ad8a/MONTES-Cesar_395516"
+        },
+        "FieldStatus": 0,
+        "LineupX": null,
+        "LineupY": null
+      },
+      {
+        "IdPlayer": "425701",
+        "IdTeam": "43911",
+        "ShirtNumber": 5,
+        "Status": 1,
+        "SpecialStatus": null,
+        "Captain": false,
+        "PlayerName": [
+          {
+            "Locale": "en-GB",
+            "Description": "Johan VASQUEZ"
+          }
+        ],
+        "ShortName": [
+          {
+            "Locale": "en-GB",
+            "Description": "Johan VASQUEZ"
+          }
+        ],
+        "Position": 1,
+        "PlayerPicture": {
+          "Id": "838CB65F-3D60-4ACB-855D35A364C25F1A",
+          "PictureUrl": "https://digitalhub.fifa.com/transform/838cb65f-3d60-4acb-855d-35a364c25f1a/VASQUEZ-Johan_425701"
+        },
+        "FieldStatus": 0,
+        "LineupX": null,
+        "LineupY": null
+      }
+    ],
+    "Bookings": [
+      {
+        "Card": 1,
+        "Period": 3,
+        "IdEvent": null,
+        "EventNumber": null,
+        "IdPlayer": "464533",
+        "IdCoach": null,
+        "IdStaff": null,
+        "IdTeam": "43911",
+        "Minute": "23'",
+        "Reason": null
+      },
+      {
+        "Card": 2,
+        "Period": 5,
+        "IdEvent": null,
+        "EventNumber": null,
+        "IdPlayer": "395516",
+        "IdCoach": null,
+        "IdStaff": null,
+        "IdTeam": "43911",
+        "Minute": "90'+2'",
+        "Reason": null
+      }
+    ],
+    "Goals": [
+      {
+        "Type": 2,
+        "IdPlayer": "429157",
+        "Minute": "9'",
+        "IdAssistPlayer": null,
+        "Period": 3,
+        "IdGoal": null,
+        "IdTeam": "43911"
+      },
+      {
+        "Type": 2,
+        "IdPlayer": "356731",
+        "Minute": "67'",
+        "IdAssistPlayer": null,
+        "Period": 5,
+        "IdGoal": null,
+        "IdTeam": "43911"
+      }
+    ],
+    "Substitutions": [
+      {
+        "IdEvent": null,
+        "Period": 5,
+        "Reason": 0,
+        "SubstitutePosition": 2,
+        "IdPlayerOff": "464533",
+        "IdPlayerOn": "448051",
+        "PlayerOffName": [
+          {
+            "Locale": "en-GB",
+            "Description": "Brian GUTIERREZ"
+          }
+        ],
+        "PlayerOnName": [
+          {
+            "Locale": "en-GB",
+            "Description": "Luis CHAVEZ"
+          }
+        ],
+        "Minute": "66'",
+        "IdTeam": "43911"
+      },
+      {
+        "IdEvent": null,
+        "Period": 5,
+        "Reason": 0,
+        "SubstitutePosition": 2,
+        "IdPlayerOff": "416576",
+        "IdPlayerOn": "500037",
+        "PlayerOffName": [
+          {
+            "Locale": "en-GB",
+            "Description": "Alvaro FIDALGO"
+          }
+        ],
+        "PlayerOnName": [
+          {
+            "Locale": "en-GB",
+            "Description": "Gilberto MORA"
+          }
+        ],
+        "Minute": "66'",
+        "IdTeam": "43911"
+      },
+      {
+        "IdEvent": null,
+        "Period": 5,
+        "Reason": 0,
+        "SubstitutePosition": 2,
+        "IdPlayerOff": "419518",
+        "IdPlayerOn": "400634",
+        "PlayerOffName": [
+          {
+            "Locale": "en-GB",
+            "Description": "Erik LIRA"
+          }
+        ],
+        "PlayerOnName": [
+          {
+            "Locale": "en-GB",
+            "Description": "Edson ALVAREZ"
+          }
+        ],
+        "Minute": "76'",
+        "IdTeam": "43911"
+      },
+      {
+        "IdEvent": null,
+        "Period": 5,
+        "Reason": 0,
+        "SubstitutePosition": 3,
+        "IdPlayerOff": "356731",
+        "IdPlayerOn": "514336",
+        "PlayerOffName": [
+          {
+            "Locale": "en-GB",
+            "Description": "Raul JIMENEZ"
+          }
+        ],
+        "PlayerOnName": [
+          {
+            "Locale": "en-GB",
+            "Description": "Armando GONZALEZ"
+          }
+        ],
+        "Minute": "76'",
+        "IdTeam": "43911"
+      },
+      {
+        "IdEvent": null,
+        "Period": 5,
+        "Reason": 0,
+        "SubstitutePosition": 3,
+        "IdPlayerOff": "429157",
+        "IdPlayerOn": "430766",
+        "PlayerOffName": [
+          {
+            "Locale": "en-GB",
+            "Description": "Julian QUINONES"
+          }
+        ],
+        "PlayerOnName": [
+          {
+            "Locale": "en-GB",
+            "Description": "Alexis VEGA"
+          }
+        ],
+        "Minute": "79'",
+        "IdTeam": "43911"
+      }
+    ],
+    "Staffs": [
+      {
+        "IdStaff": "439546",
+        "IdCountry": "MEX",
+        "Role": 10,
+        "PictureUrl": null,
+        "Name": [
+          {
+            "Locale": "en-GB",
+            "Description": "Alan TORRES"
+          }
+        ],
+        "Alias": [
+          {
+            "Locale": "en-GB",
+            "Description": "Alan TORRES"
+          }
+        ]
+      },
+      {
+        "IdStaff": "523276",
+        "IdCountry": "MEX",
+        "Role": 10,
+        "PictureUrl": null,
+        "Name": [
+          {
+            "Locale": "en-GB",
+            "Description": "Israel RIOS"
+          }
+        ],
+        "Alias": [
+          {
+            "Locale": "en-GB",
+            "Description": "Israel RIOS"
+          }
+        ]
+      },
+      {
+        "IdStaff": "198166",
+        "IdCountry": "MEX",
+        "Role": 1,
+        "PictureUrl": null,
+        "Name": [
+          {
+            "Locale": "en-GB",
+            "Description": "Angel AREVALO"
+          }
+        ],
+        "Alias": [
+          {
+            "Locale": "en-GB",
+            "Description": "Angel AREVALO"
+          }
+        ]
+      },
+      {
+        "IdStaff": "480500",
+        "IdCountry": "MEX",
+        "Role": 15,
+        "PictureUrl": null,
+        "Name": [
+          {
+            "Locale": "en-GB",
+            "Description": "Hector ENCISO"
+          }
+        ],
+        "Alias": [
+          {
+            "Locale": "en-GB",
+            "Description": "Hector ENCISO"
+          }
+        ]
+      },
+      {
+        "IdStaff": "439552",
+        "IdCountry": "ESP",
+        "Role": 12,
+        "PictureUrl": null,
+        "Name": [
+          {
+            "Locale": "en-GB",
+            "Description": "Pol LORENTE"
+          }
+        ],
+        "Alias": [
+          {
+            "Locale": "en-GB",
+            "Description": "Pol LORENTE"
+          }
+        ]
+      },
+      {
+        "IdStaff": "523280",
+        "IdCountry": "ESP",
+        "Role": 2,
+        "PictureUrl": null,
+        "Name": [
+          {
+            "Locale": "en-GB",
+            "Description": "Jose ITUARTE"
+          }
+        ],
+        "Alias": [
+          {
+            "Locale": "en-GB",
+            "Description": "Jose ITUARTE"
+          }
+        ]
+      }
+    ],
+    "FootballType": 0,
+    "Gender": 1,
+    "IdAssociation": "MEX",
+    "ShortClubName": "Mexico"
+  },
+  "AwayTeam": {
+    "Score": 0,
+    "Side": null,
+    "IdTeam": "43883",
+    "PictureUrl": "https://api.fifa.com/api/v3/picture/flags-{format}-{size}/RSA",
+    "IdCountry": "RSA",
+    "TeamType": 1,
+    "AgeType": 7,
+    "Tactics": "5-3-2",
+    "TeamName": [
+      {
+        "Locale": "en-GB",
+        "Description": "South Africa"
+      }
+    ],
+    "Abbreviation": "RSA",
+    "Coaches": [
+      {
+        "IdCoach": "46980",
+        "IdCountry": "BEL",
+        "PictureUrl": "https://digitalhub.fifa.com/transform/a3a1f2de-d006-4e46-b144-f5b88b685891/BROOS-Hugo_46980",
+        "Name": [
+          {
+            "Locale": "en-GB",
+            "Description": "Hugo Henri Broos"
+          }
+        ],
+        "Alias": [
+          {
+            "Locale": "en-GB",
+            "Description": "Hugo BROOS"
+          }
+        ],
+        "Role": 0,
+        "SpecialStatus": null
+      },
+      {
+        "IdCoach": "170219",
+        "IdCountry": "RSA",
+        "PictureUrl": null,
+        "Name": [
+          {
+            "Locale": "en-GB",
+            "Description": "Helman Mkhalele"
+          }
+        ],
+        "Alias": [
+          {
+            "Locale": "en-GB",
+            "Description": "Helman MKALELE"
+          }
+        ],
+        "Role": 1,
+        "SpecialStatus": null
+      }
+    ],
+    "Players": [
+      {
+        "IdPlayer": "395986",
+        "IdTeam": "43883",
+        "ShirtNumber": 1,
+        "Status": 1,
+        "SpecialStatus": null,
+        "Captain": true,
+        "PlayerName": [
+          {
+            "Locale": "en-GB",
+            "Description": "Ronwen WILLIAMS"
+          }
+        ],
+        "ShortName": [
+          {
+            "Locale": "en-GB",
+            "Description": "Ronwen WILLIAMS"
+          }
+        ],
+        "Position": 0,
+        "PlayerPicture": {
+          "Id": "B95F9142-251C-4943-911C9C8D7AD8DD1C",
+          "PictureUrl": "https://digitalhub.fifa.com/transform/b95f9142-251c-4943-911c-9c8d7ad8dd1c/WILLIAMS-Ronwen_395986"
+        },
+        "FieldStatus": 0,
+        "LineupX": null,
+        "LineupY": null
+      },
+      {
+        "IdPlayer": "395050",
+        "IdTeam": "43883",
+        "ShirtNumber": 6,
+        "Status": 1,
+        "SpecialStatus": null,
+        "Captain": false,
+        "PlayerName": [
+          {
+            "Locale": "en-GB",
+            "Description": "Aubrey MODIBA"
+          }
+        ],
+        "ShortName": [
+          {
+            "Locale": "en-GB",
+            "Description": "Aubrey MODIBA"
+          }
+        ],
+        "Position": 1,
+        "PlayerPicture": {
+          "Id": "E5DDFBFB-B601-4FF8-83A5F55162967798",
+          "PictureUrl": "https://digitalhub.fifa.com/transform/e5ddfbfb-b601-4ff8-83a5-f55162967798/MODIBA-Aubrey_395050"
+        },
+        "FieldStatus": 0,
+        "LineupX": null,
+        "LineupY": null
+      },
+      {
+        "IdPlayer": "504199",
+        "IdTeam": "43883",
+        "ShirtNumber": 14,
+        "Status": 1,
+        "SpecialStatus": null,
+        "Captain": false,
+        "PlayerName": [
+          {
+            "Locale": "en-GB",
+            "Description": "Mbekezeli MBOKAZI"
+          }
+        ],
+        "ShortName": [
+          {
+            "Locale": "en-GB",
+            "Description": "Mbekezeli MBOKAZI"
+          }
+        ],
+        "Position": 1,
+        "PlayerPicture": {
+          "Id": "978B666D-F320-4D49-B717A08FA7AE456F",
+          "PictureUrl": "https://digitalhub.fifa.com/transform/978b666d-f320-4d49-b717-a08fa7ae456f/MBOKAZI-Mbekezeli_504199"
+        },
+        "FieldStatus": 0,
+        "LineupX": null,
+        "LineupY": null
+      }
+    ],
+    "Bookings": [
+      {
+        "Card": 1,
+        "Period": 3,
+        "IdEvent": null,
+        "EventNumber": null,
+        "IdPlayer": "403616",
+        "IdCoach": null,
+        "IdStaff": null,
+        "IdTeam": "43883",
+        "Minute": "17'",
+        "Reason": null
+      },
+      {
+        "Card": 2,
+        "Period": 5,
+        "IdEvent": null,
+        "EventNumber": null,
+        "IdPlayer": "390475",
+        "IdCoach": null,
+        "IdStaff": null,
+        "IdTeam": "43883",
+        "Minute": "49'",
+        "Reason": null
+      },
+      {
+        "Card": 1,
+        "Period": 5,
+        "IdEvent": null,
+        "EventNumber": null,
+        "IdPlayer": "463221",
+        "IdCoach": null,
+        "IdStaff": null,
+        "IdTeam": "43883",
+        "Minute": "74'",
+        "Reason": null
+      },
+      {
+        "Card": 2,
+        "Period": 5,
+        "IdEvent": null,
+        "EventNumber": null,
+        "IdPlayer": "395984",
+        "IdCoach": null,
+        "IdStaff": null,
+        "IdTeam": "43883",
+        "Minute": "84'",
+        "Reason": null
+      }
+    ],
+    "Goals": [],
+    "Substitutions": [
+      {
+        "IdEvent": null,
+        "Period": 5,
+        "Reason": 0,
+        "SubstitutePosition": 3,
+        "IdPlayerOff": "419211",
+        "IdPlayerOn": "494248",
+        "PlayerOffName": [
+          {
+            "Locale": "en-GB",
+            "Description": "Lyle FOSTER"
+          }
+        ],
+        "PlayerOnName": [
+          {
+            "Locale": "en-GB",
+            "Description": "Thalente MBATHA"
+          }
+        ],
+        "Minute": "56'",
+        "IdTeam": "43883"
+      },
+      {
+        "IdEvent": null,
+        "Period": 5,
+        "Reason": 0,
+        "SubstitutePosition": 2,
+        "IdPlayerOff": "463236",
+        "IdPlayerOn": "395984",
+        "PlayerOffName": [
+          {
+            "Locale": "en-GB",
+            "Description": "Jayden ADAMS"
+          }
+        ],
+        "PlayerOnName": [
+          {
+            "Locale": "en-GB",
+            "Description": "Themba ZWANE"
+          }
+        ],
+        "Minute": "61'",
+        "IdTeam": "43883"
+      },
+      {
+        "IdEvent": null,
+        "Period": 5,
+        "Reason": 0,
+        "SubstitutePosition": 3,
+        "IdPlayerOff": "481242",
+        "IdPlayerOn": "430917",
+        "PlayerOffName": [
+          {
+            "Locale": "en-GB",
+            "Description": "Iqraam RAYNERS"
+          }
+        ],
+        "PlayerOnName": [
+          {
+            "Locale": "en-GB",
+            "Description": "Evidence MAKGOPA"
+          }
+        ],
+        "Minute": "76'",
+        "IdTeam": "43883"
+      },
+      {
+        "IdEvent": null,
+        "Period": 5,
+        "Reason": 0,
+        "SubstitutePosition": 1,
+        "IdPlayerOff": "395050",
+        "IdPlayerOn": "419223",
+        "PlayerOffName": [
+          {
+            "Locale": "en-GB",
+            "Description": "Aubrey MODIBA"
+          }
+        ],
+        "PlayerOnName": [
+          {
+            "Locale": "en-GB",
+            "Description": "Oswin APPOLLIS"
+          }
+        ],
+        "Minute": "76'",
+        "IdTeam": "43883"
+      }
+    ],
+    "Staffs": [
+      {
+        "IdStaff": "395073",
+        "IdCountry": "RSA",
+        "Role": 8,
+        "PictureUrl": null,
+        "Name": [
+          {
+            "Locale": "en-GB",
+            "Description": "Rendani MANUKU"
+          }
+        ],
+        "Alias": [
+          {
+            "Locale": "en-GB",
+            "Description": "Rendani MANUKU"
+          }
+        ]
+      },
+      {
+        "IdStaff": "390460",
+        "IdCountry": "RSA",
+        "Role": 15,
+        "PictureUrl": null,
+        "Name": [
+          {
+            "Locale": "en-GB",
+            "Description": "Tshepo MOLOBI"
+          }
+        ],
+        "Alias": [
+          {
+            "Locale": "en-GB",
+            "Description": "Tshepo MOLOBI"
+          }
+        ]
+      },
+      {
+        "IdStaff": "236997",
+        "IdCountry": "RSA",
+        "Role": 2,
+        "PictureUrl": null,
+        "Name": [
+          {
+            "Locale": "en-GB",
+            "Description": "Grant JOHNSON"
+          }
+        ],
+        "Alias": [
+          {
+            "Locale": "en-GB",
+            "Description": "Grant JOHNSON"
+          }
+        ]
+      },
+      {
+        "IdStaff": "522336",
+        "IdCountry": "RSA",
+        "Role": 8,
+        "PictureUrl": null,
+        "Name": [
+          {
+            "Locale": "en-GB",
+            "Description": "Tebogo DHLOMO"
+          }
+        ],
+        "Alias": [
+          {
+            "Locale": "en-GB",
+            "Description": "Tebogo DHLOMO"
+          }
+        ]
+      },
+      {
+        "IdStaff": "338541",
+        "IdCountry": "RSA",
+        "Role": 16,
+        "PictureUrl": null,
+        "Name": [
+          {
+            "Locale": "en-GB",
+            "Description": "Vincent TSEKA"
+          }
+        ],
+        "Alias": [
+          {
+            "Locale": "en-GB",
+            "Description": "Vincent TSEKA"
+          }
+        ]
+      },
+      {
+        "IdStaff": "419276",
+        "IdCountry": "RSA",
+        "Role": 12,
+        "PictureUrl": null,
+        "Name": [
+          {
+            "Locale": "en-GB",
+            "Description": "Kopano MELESI"
+          }
+        ],
+        "Alias": [
+          {
+            "Locale": "en-GB",
+            "Description": "Kopano MELESI"
+          }
+        ]
+      }
+    ],
+    "FootballType": 0,
+    "Gender": 1,
+    "IdAssociation": "RSA",
+    "ShortClubName": "South Africa"
+  },
+  "BallPossession": null,
+  "TerritorialPossesion": null,
+  "TerritorialThirdPossesion": null,
+  "Officials": [
+    {
+      "IdCountry": "BRA",
+      "OfficialId": "361561",
+      "NameShort": [
+        {
+          "Locale": "en-GB",
+          "Description": "Wilton SAMPAIO"
+        }
+      ],
+      "Name": [
+        {
+          "Locale": "en-GB",
+          "Description": "Wilton SAMPAIO"
+        }
+      ],
+      "OfficialType": 1,
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Referee"
+        }
+      ]
+    },
+    {
+      "IdCountry": "PAR",
+      "OfficialId": "416159",
+      "NameShort": [
+        {
+          "Locale": "en-GB",
+          "Description": "Juan Gabriel BENITEZ"
+        }
+      ],
+      "Name": [
+        {
+          "Locale": "en-GB",
+          "Description": "Juan Gabriel Benítez"
+        }
+      ],
+      "OfficialType": 4,
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Fourth official"
+        }
+      ]
+    }
+  ],
+  "MatchStatus": 0,
+  "GroupName": [
+    {
+      "Locale": "en-GB",
+      "Description": "Group A"
+    }
+  ],
+  "StageName": [
+    {
+      "Locale": "en-GB",
+      "Description": "First Stage"
+    }
+  ],
+  "OfficialityStatus": 1,
+  "TimeDefined": true,
+  "Properties": {
+    "IdIFES": "151600"
+  },
+  "IsUpdateable": null
+}

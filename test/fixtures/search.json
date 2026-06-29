@@ -1,0 +1,76 @@
+{
+  "ContinuationToken": null,
+  "ContinuationHash": null,
+  "Results": [
+    {
+      "IdCompetition": "521",
+      "Name": [
+        {
+          "Locale": "en-GB",
+          "Description": "FIFA Women's World Cup Qualifier"
+        }
+      ],
+      "IdConfederation": [],
+      "IdMemberAssociation": [],
+      "IdOwner": "FIFA",
+      "Gender": 2,
+      "FootballType": 0,
+      "TeamType": 1,
+      "CompetitionType": 3,
+      "AgeType": 7,
+      "DisplayOrder": null,
+      "Properties": {
+        "IdIFES": "FWWC_Q"
+      },
+      "IsUpdateable": null
+    },
+    {
+      "IdCompetition": "49r8o86nv7guwh9t2m7vvk222",
+      "Name": [
+        {
+          "Locale": "en-gb",
+          "Description": "J.League World Challenge"
+        }
+      ],
+      "IdConfederation": [
+        "AFC"
+      ],
+      "IdMemberAssociation": [
+        ""
+      ],
+      "IdOwner": "AFC",
+      "Gender": 1,
+      "FootballType": 0,
+      "TeamType": 0,
+      "CompetitionType": 1,
+      "AgeType": 0,
+      "DisplayOrder": null,
+      "Properties": {
+        "IdStatsPerform": "49r8o86nv7guwh9t2m7vvk222"
+      },
+      "IsUpdateable": null
+    },
+    {
+      "IdCompetition": "520",
+      "Name": [
+        {
+          "Locale": "en-GB",
+          "Description": "FIFA World Cup™ Qualifiers"
+        }
+      ],
+      "IdConfederation": [],
+      "IdMemberAssociation": [],
+      "IdOwner": "FIFA",
+      "Gender": 1,
+      "FootballType": 0,
+      "TeamType": 1,
+      "CompetitionType": 3,
+      "AgeType": 7,
+      "DisplayOrder": null,
+      "Properties": {
+        "IdIFES": "FWC_Q"
+      },
+      "IsUpdateable": null
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "ContinuationToken": "50",
+  "ContinuationHash": "50",
+  "Results": [
+    {
+      "IdCountry": "AFG",
+      "Name": "Afghanistan",
+      "Iso3166Alpha2": "AF",
+      "Iso3166Alpha3": "AFG",
+      "Alias": [
+        {
+          "Locale": "en-GB",
+          "Description": "Afghanistan"
+        }
+      ],
+      "GracenoteCode": null,
+      "StatsPerformId": "6xne7xe59eujck02uovziom7p",
+      "Properties": {},
+      "IsUpdateable": null
+    },
+    {
+      "IdCountry": "ALB",
+      "Name": "Albania",
+      "Iso3166Alpha2": "AL",
+      "Iso3166Alpha3": "ALB",
+      "Alias": [
+        {
+          "Locale": "en-GB",
+          "Description": "Albania"
+        }
+      ],
+      "GracenoteCode": null,
+      "StatsPerformId": "17zsm8shejejls2on1ffil3op",
+      "Properties": {},
+      "IsUpdateable": null
+    },
+    {
+      "IdCountry": "ALG",
+      "Name": "Algeria",
+      "Iso3166Alpha2": "DZ",
+      "Iso3166Alpha3": "DZA",
+      "Alias": [
+        {
+          "Locale": "en-GB",
+          "Description": "Algeria"
+        }
+      ],
+      "GracenoteCode": null,
+      "StatsPerformId": "1ayprcriqhb8iv10ch70clppu",
+      "Properties": {},
+      "IsUpdateable": null
+    },
+    {
+      "IdCountry": "ASA",
+      "Name": "American Samoa",
+      "Iso3166Alpha2": "AS",
+      "Iso3166Alpha3": "ASM",
+      "Alias": [
+        {
+          "Locale": "en-GB",
+          "Description": "American Samoa"
+        }
+      ],
+      "GracenoteCode": null,
+      "StatsPerformId": "5xdsl5tinkocdk72ny1pgsj6x",
+      "Properties": {},
+      "IsUpdateable": null
+    },
+    {
+      "IdCountry": "AND",
+      "Name": "Andorra",
+      "Iso3166Alpha2": "AD",
+      "Iso3166Alpha3": "AND",
+      "Alias": [
+        {
+          "Locale": "en-GB",
+          "Description": "Andorra"
+        }
+      ],
+      "GracenoteCode": null,
+      "StatsPerformId": "6kxfttvbfkg4ywupx6g9zc16o",
+      "Properties": {},
+      "IsUpdateable": null
+    },
+    {
+      "IdCountry": "ANG",
+      "Name": "Angola",
+      "Iso3166Alpha2": "AO",
+      "Iso3166Alpha3": "AGO",
+      "Alias": [
+        {
+          "Locale": "en-GB",
+          "Description": "Angola"
+        }
+      ],
+      "GracenoteCode": null,
+      "StatsPerformId": "3k53bkrjx5zsxchc6e3mcd834",
+      "Properties": {},
+      "IsUpdateable": null
+    }
+  ]
+}

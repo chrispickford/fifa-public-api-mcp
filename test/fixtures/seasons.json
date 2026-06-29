@@ -1,0 +1,375 @@
+{
+  "ContinuationToken": null,
+  "ContinuationHash": null,
+  "Results": [
+    {
+      "IdSeason": "285023",
+      "Name": [
+        {
+          "Locale": "en-GB",
+          "Description": "FIFA World Cup 2026™"
+        }
+      ],
+      "ShortName": [],
+      "Abbreviation": "FWC 2026",
+      "IdMemberAssociation": [
+        "USA",
+        "CAN",
+        "MEX",
+        "JPN",
+        "NZL",
+        "IRN",
+        "ARG",
+        "UZB",
+        "JOR",
+        "KOR",
+        "AUS",
+        "BRA",
+        "ECU",
+        "COL",
+        "PAR",
+        "URU",
+        "MAR",
+        "TUN",
+        "EGY",
+        "ALG",
+        "GHA",
+        "CPV",
+        "RSA",
+        "QAT",
+        "ENG",
+        "KSA",
+        "CIV",
+        "SEN",
+        "FRA",
+        "CRO",
+        "POR",
+        "NOR",
+        "GER",
+        "NED",
+        "BEL",
+        "ESP",
+        "SUI",
+        "AUT",
+        "SCO",
+        "PAN",
+        "CUW",
+        "HAI",
+        "BIH",
+        "COD",
+        "CZE",
+        "IRQ",
+        "SWE",
+        "TUR"
+      ],
+      "IdConfederation": [
+        "CONCACAF",
+        "AFC",
+        "OFC",
+        "CONMEBOL",
+        "CAF",
+        "UEFA"
+      ],
+      "IdCompetition": "17",
+      "StartDate": "2026-06-11T19:00:00Z",
+      "EndDate": "2026-07-19T00:00:00Z",
+      "PictureUrl": "https://api.fifa.com/api/v3/picture/tournaments-{format}-{size}/285023",
+      "MascotPictureUrl": "https://api.fifa.com/api/v3/picture/tournaments-mascot-{format}-{size}/285023",
+      "MatchBallPictureUrl": "https://api.fifa.com/api/v3/picture/tournaments-matchball-{format}-{size}/285023",
+      "HostTeams": [
+        {
+          "IdTeam": "43921"
+        },
+        {
+          "IdTeam": "43899"
+        },
+        {
+          "IdTeam": "43911"
+        }
+      ],
+      "SportType": 0,
+      "Properties": {
+        "IdIFES": "285023",
+        "Providers": "IHF"
+      },
+      "IsUpdateable": null
+    },
+    {
+      "IdSeason": "255711",
+      "Name": [
+        {
+          "Locale": "en-GB",
+          "Description": "FIFA World Cup Qatar 2022™"
+        }
+      ],
+      "ShortName": [],
+      "Abbreviation": "FWC 2022",
+      "IdMemberAssociation": [
+        "QAT",
+        "GER",
+        "DEN",
+        "BRA",
+        "FRA",
+        "BEL",
+        "CRO",
+        "ESP",
+        "SRB",
+        "ENG",
+        "SUI",
+        "NED",
+        "ARG",
+        "IRN",
+        "KOR",
+        "JPN",
+        "KSA",
+        "ECU",
+        "URU",
+        "CAN",
+        "GHA",
+        "SEN",
+        "POR",
+        "POL",
+        "MAR",
+        "TUN",
+        "CMR",
+        "USA",
+        "MEX",
+        "AUS",
+        "CRC",
+        "WAL"
+      ],
+      "IdConfederation": [
+        "AFC",
+        "UEFA",
+        "CONMEBOL",
+        "CONCACAF",
+        "CAF"
+      ],
+      "IdCompetition": "17",
+      "StartDate": "2022-11-20T16:00:00Z",
+      "EndDate": "2022-12-18T00:00:00Z",
+      "PictureUrl": "https://api.fifa.com/api/v3/picture/tournaments-{format}-{size}/255711",
+      "MascotPictureUrl": "https://api.fifa.com/api/v3/picture/tournaments-mascot-{format}-{size}/255711",
+      "MatchBallPictureUrl": "https://api.fifa.com/api/v3/picture/tournaments-matchball-{format}-{size}/255711",
+      "HostTeams": [
+        {
+          "IdTeam": "43834"
+        }
+      ],
+      "SportType": 0,
+      "Properties": {
+        "IdIFES": "255711",
+        "Providers": "IMM"
+      },
+      "IsUpdateable": null
+    },
+    {
+      "IdSeason": "254645",
+      "Name": [
+        {
+          "Locale": "en-GB",
+          "Description": "2018 FIFA World Cup Russia™"
+        }
+      ],
+      "ShortName": [],
+      "Abbreviation": "FWC 2018",
+      "IdMemberAssociation": [
+        "RUS",
+        "BRA",
+        "IRN",
+        "JPN",
+        "MEX",
+        "BEL",
+        "KOR",
+        "KSA",
+        "GER",
+        "ENG",
+        "ESP",
+        "NGA",
+        "CRC",
+        "POL",
+        "EGY",
+        "SRB",
+        "ISL",
+        "FRA",
+        "POR",
+        "ARG",
+        "COL",
+        "URU",
+        "PAN",
+        "TUN",
+        "PER",
+        "MAR",
+        "SEN",
+        "AUS",
+        "CRO",
+        "DEN",
+        "SWE",
+        "SUI"
+      ],
+      "IdConfederation": [
+        "UEFA",
+        "CONMEBOL",
+        "AFC",
+        "CONCACAF",
+        "CAF"
+      ],
+      "IdCompetition": "17",
+      "StartDate": "2018-06-14T15:00:00Z",
+      "EndDate": "2018-07-15T00:00:00Z",
+      "PictureUrl": "https://api.fifa.com/api/v3/picture/tournaments-{format}-{size}/254645",
+      "MascotPictureUrl": "https://api.fifa.com/api/v3/picture/tournaments-mascot-{format}-{size}/254645",
+      "MatchBallPictureUrl": "https://api.fifa.com/api/v3/picture/tournaments-matchball-{format}-{size}/254645",
+      "HostTeams": [
+        {
+          "IdTeam": "43965"
+        }
+      ],
+      "SportType": 0,
+      "Properties": {
+        "IdIFES": "254645",
+        "Providers": "IMM"
+      },
+      "IsUpdateable": null
+    },
+    {
+      "IdSeason": "251164",
+      "Name": [
+        {
+          "Locale": "en-GB",
+          "Description": "2014 FIFA World Cup Brazil™"
+        }
+      ],
+      "ShortName": [],
+      "Abbreviation": "FWC 2014",
+      "IdMemberAssociation": [
+        "BRA",
+        "JPN",
+        "AUS",
+        "IRN",
+        "KOR",
+        "USA",
+        "CRC",
+        "ARG",
+        "NED",
+        "ITA",
+        "BEL",
+        "GER",
+        "SUI",
+        "COL",
+        "BIH",
+        "ENG",
+        "RUS",
+        "ESP",
+        "HON",
+        "CHI",
+        "ECU",
+        "CMR",
+        "CIV",
+        "NGA",
+        "ALG",
+        "GHA",
+        "CRO",
+        "FRA",
+        "GRE",
+        "POR",
+        "MEX",
+        "URU"
+      ],
+      "IdConfederation": [
+        "CONMEBOL",
+        "AFC",
+        "CONCACAF",
+        "UEFA",
+        "CAF"
+      ],
+      "IdCompetition": "17",
+      "StartDate": "2014-06-12T20:00:00Z",
+      "EndDate": "2014-07-13T00:00:00Z",
+      "PictureUrl": "https://api.fifa.com/api/v3/picture/tournaments-{format}-{size}/251164",
+      "MascotPictureUrl": "https://api.fifa.com/api/v3/picture/tournaments-mascot-{format}-{size}/251164",
+      "MatchBallPictureUrl": "https://api.fifa.com/api/v3/picture/tournaments-matchball-{format}-{size}/251164",
+      "HostTeams": [
+        {
+          "IdTeam": "43924"
+        }
+      ],
+      "SportType": 0,
+      "Properties": {
+        "IdIFES": "251164",
+        "Providers": "III"
+      },
+      "IsUpdateable": null
+    },
+    {
+      "IdSeason": "249715",
+      "Name": [
+        {
+          "Locale": "en-GB",
+          "Description": "2010 FIFA World Cup South Africa™"
+        }
+      ],
+      "ShortName": [],
+      "Abbreviation": "FWC 2010",
+      "IdMemberAssociation": [
+        "AUS",
+        "JPN",
+        "KOR",
+        "NED",
+        "RSA",
+        "PRK",
+        "BRA",
+        "GHA",
+        "ENG",
+        "ESP",
+        "PAR",
+        "CIV",
+        "GER",
+        "DEN",
+        "SRB",
+        "ITA",
+        "CHI",
+        "MEX",
+        "USA",
+        "SUI",
+        "SVK",
+        "ARG",
+        "HON",
+        "NZL",
+        "NGA",
+        "CMR",
+        "ALG",
+        "GRE",
+        "SVN",
+        "POR",
+        "FRA",
+        "URU"
+      ],
+      "IdConfederation": [
+        "AFC",
+        "UEFA",
+        "CAF",
+        "CONMEBOL",
+        "CONCACAF",
+        "OFC"
+      ],
+      "IdCompetition": "17",
+      "StartDate": "2010-06-11T14:00:00Z",
+      "EndDate": "2010-07-11T00:00:00Z",
+      "PictureUrl": "https://api.fifa.com/api/v3/picture/tournaments-{format}-{size}/249715",
+      "MascotPictureUrl": "https://api.fifa.com/api/v3/picture/tournaments-mascot-{format}-{size}/249715",
+      "MatchBallPictureUrl": "https://api.fifa.com/api/v3/picture/tournaments-matchball-{format}-{size}/249715",
+      "HostTeams": [
+        {
+          "IdTeam": "43883"
+        }
+      ],
+      "SportType": 0,
+      "Properties": {
+        "IdIFES": "249715",
+        "Providers": "III"
+      },
+      "IsUpdateable": null
+    }
+  ]
+}

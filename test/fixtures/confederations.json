@@ -1,0 +1,640 @@
+{
+  "ContinuationToken": null,
+  "ContinuationHash": null,
+  "Results": [
+    {
+      "IdConfederation": "CAF",
+      "Name": [
+        {
+          "Locale": "en-GB",
+          "Description": "Confédération Africaine de Football"
+        }
+      ],
+      "ConfederationAcronym": [
+        {
+          "Locale": "en-GB",
+          "Description": "CAF"
+        }
+      ],
+      "PictureUrl": "https://digitalhub.fifa.com/transform/64e1bc81-4414-470e-8ec6-fd23165c3b4a/CHAN-eng-4col",
+      "DarkPictureUrl": "https://digitalhub.fifa.com/transform/452981fc-2346-4b0e-9ea6-33afc760c2be/CAF",
+      "ThumbnailPictureUrl": null,
+      "Description": [
+        {
+          "Locale": "en-GB",
+          "Description": "CAF"
+        }
+      ],
+      "WebSite": "www.cafonline.com",
+      "Address": "3 Abdel Khalek Sarwat Street, El Hay El Motamayez, P.O. Box 23",
+      "AddressLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "3 Abdel Khalek Sarwat Street, El Hay El Motamayez, P.O. Box 23"
+        }
+      ],
+      "CityName": "6TH OCTOBER CITY",
+      "CityNameLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "12566 6TH OCTOBER CITY"
+        }
+      ],
+      "Country": "EGY",
+      "ContactBusinessPhone": "+20-2/3824 7272",
+      "ContactEmail": "info@cafonline.com",
+      "ContactFax": null,
+      "ContactMediaCommunicationsPhone": null,
+      "LocationPicture": null,
+      "OrderPosition": 1,
+      "Organisation": [
+        {
+          "IdOrganisationMember": "314967",
+          "IdConfederation": "CAF",
+          "IdAssociation": "EGY",
+          "DisplayName": [
+            {
+              "Locale": "en-GB",
+              "Description": "Samson ADAMU"
+            }
+          ],
+          "FirstName": "Samson",
+          "LastName": "ADAMU",
+          "DateOfBirth": "1984-03-04T00:00:00Z",
+          "Country": "NGA",
+          "Role": 6,
+          "RoleTypeDescription": [
+            {
+              "Locale": "en-GB",
+              "Description": "Acting General Secretary"
+            }
+          ],
+          "RoleBeginDate": "2026-03-29T00:00:00Z",
+          "RoleEndDate": null,
+          "OrganisationBeginDate": "2018-05-31T00:00:00Z"
+        },
+        {
+          "IdOrganisationMember": "440173",
+          "IdConfederation": "CAF",
+          "IdAssociation": "EGY",
+          "DisplayName": [
+            {
+              "Locale": "en-GB",
+              "Description": "Bestine KAZADI"
+            }
+          ],
+          "FirstName": "Ditabala Bestine",
+          "LastName": "KAZADI",
+          "DateOfBirth": "1963-02-08T00:00:00Z",
+          "Country": "COD",
+          "Role": 4,
+          "RoleTypeDescription": [
+            {
+              "Locale": "en-GB",
+              "Description": "Vice President"
+            }
+          ],
+          "RoleBeginDate": "2025-04-26T00:00:00Z",
+          "RoleEndDate": null,
+          "OrganisationBeginDate": "2025-04-26T00:00:00Z"
+        },
+        {
+          "IdOrganisationMember": "379155",
+          "IdConfederation": "CAF",
+          "IdAssociation": "EGY",
+          "DisplayName": [
+            {
+              "Locale": "en-GB",
+              "Description": "Fouzi LEKJAA"
+            }
+          ],
+          "FirstName": "Fouzi",
+          "LastName": "LEKJAA",
+          "DateOfBirth": "1970-07-23T00:00:00Z",
+          "Country": "MAR",
+          "Role": 4,
+          "RoleTypeDescription": [
+            {
+              "Locale": "en-GB",
+              "Description": "Vice President"
+            }
+          ],
+          "RoleBeginDate": "2025-04-26T00:00:00Z",
+          "RoleEndDate": null,
+          "OrganisationBeginDate": "2017-09-15T00:00:00Z"
+        },
+        {
+          "IdOrganisationMember": "429984",
+          "IdConfederation": "CAF",
+          "IdAssociation": "EGY",
+          "DisplayName": [
+            {
+              "Locale": "en-GB",
+              "Description": "Patrice MOTSEPE"
+            }
+          ],
+          "FirstName": "Patrice Tlhopane",
+          "LastName": "MOTSEPE",
+          "DateOfBirth": "1962-01-28T00:00:00Z",
+          "Country": "RSA",
+          "Role": 0,
+          "RoleTypeDescription": [
+            {
+              "Locale": "en-GB",
+              "Description": "President"
+            }
+          ],
+          "RoleBeginDate": "2025-03-12T00:00:00Z",
+          "RoleEndDate": null,
+          "OrganisationBeginDate": "2021-03-12T00:00:00Z"
+        },
+        {
+          "IdOrganisationMember": "22263",
+          "IdConfederation": "CAF",
+          "IdAssociation": "EGY",
+          "DisplayName": [
+            {
+              "Locale": "en-GB",
+              "Description": "Pierre MOUNGUENGUI"
+            }
+          ],
+          "FirstName": "Pierre Alain",
+          "LastName": "MOUNGUENGUI",
+          "DateOfBirth": "1957-12-15T00:00:00Z",
+          "Country": "GAB",
+          "Role": 4,
+          "RoleTypeDescription": [
+            {
+              "Locale": "en-GB",
+              "Description": "Vice President"
+            }
+          ],
+          "RoleBeginDate": "2025-04-26T00:00:00Z",
+          "RoleEndDate": null,
+          "OrganisationBeginDate": "2025-04-26T00:00:00Z"
+        },
+        {
+          "IdOrganisationMember": "382047",
+          "IdConfederation": "CAF",
+          "IdAssociation": "EGY",
+          "DisplayName": [
+            {
+              "Locale": "en-GB",
+              "Description": "Gerson MELO"
+            }
+          ],
+          "FirstName": "Gerson",
+          "LastName": "SENA DE MELO",
+          "DateOfBirth": "1979-10-26T00:00:00Z",
+          "Country": "CPV",
+          "Role": 9,
+          "RoleTypeDescription": [
+            {
+              "Locale": "en-GB",
+              "Description": "Technical Director"
+            }
+          ],
+          "RoleBeginDate": "2026-05-11T00:00:00Z",
+          "RoleEndDate": null,
+          "OrganisationBeginDate": "2026-05-11T00:00:00Z"
+        },
+        {
+          "IdOrganisationMember": "173093",
+          "IdConfederation": "CAF",
+          "IdAssociation": "EGY",
+          "DisplayName": [
+            {
+              "Locale": "en-GB",
+              "Description": "Fezal SIDAT"
+            }
+          ],
+          "FirstName": "Fezal Ismael",
+          "LastName": "SIDAT",
+          "DateOfBirth": "1961-07-07T00:00:00Z",
+          "Country": "MOZ",
+          "Role": 4,
+          "RoleTypeDescription": [
+            {
+              "Locale": "en-GB",
+              "Description": "Vice President"
+            }
+          ],
+          "RoleBeginDate": "2025-04-26T00:00:00Z",
+          "RoleEndDate": null,
+          "OrganisationBeginDate": "2025-04-26T00:00:00Z"
+        },
+        {
+          "IdOrganisationMember": "425517",
+          "IdConfederation": "CAF",
+          "IdAssociation": "EGY",
+          "DisplayName": [
+            {
+              "Locale": "en-GB",
+              "Description": "Kurt OKRAKU"
+            }
+          ],
+          "FirstName": "Edwin",
+          "LastName": "SIMEON-OKRAKU",
+          "DateOfBirth": "1971-06-01T00:00:00Z",
+          "Country": "GHA",
+          "Role": 4,
+          "RoleTypeDescription": [
+            {
+              "Locale": "en-GB",
+              "Description": "Vice President"
+            }
+          ],
+          "RoleBeginDate": "2025-04-26T00:00:00Z",
+          "RoleEndDate": null,
+          "OrganisationBeginDate": "2025-04-26T00:00:00Z"
+        }
+      ],
+      "NumberOfAssociations": 54,
+      "Properties": {
+        "IdIFES": "23913"
+      },
+      "IsUpdateable": null
+    },
+    {
+      "IdConfederation": "CONCACAF",
+      "Name": [
+        {
+          "Locale": "en-GB",
+          "Description": "The Confederation of North, Central America and Caribbean Association"
+        }
+      ],
+      "ConfederationAcronym": [
+        {
+          "Locale": "en-GB",
+          "Description": "Concacaf"
+        }
+      ],
+      "PictureUrl": "https://digitalhub.fifa.com/transform/de797299-bffc-4738-a52f-5f82f8f87b8a/Con_Prm_Full_Pos_4cp_C",
+      "DarkPictureUrl": "https://digitalhub.fifa.com/transform/2a5b7135-bbbf-4bef-9fef-9de13920cca2/CONCACAF",
+      "ThumbnailPictureUrl": null,
+      "Description": [
+        {
+          "Locale": "en-GB",
+          "Description": "CONCACAF"
+        }
+      ],
+      "WebSite": "www.concacaf.com",
+      "Address": "3 MiamiCentral building, 161 NW 6th Street",
+      "AddressLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "3 MiamiCentral building,, 161 NW 6th Street"
+        }
+      ],
+      "CityName": "FL. 33136 MIAMI, FLORIDA",
+      "CityNameLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "FL. 33136 MIAMI, FLORIDA"
+        }
+      ],
+      "Country": "USA",
+      "ContactBusinessPhone": "+1-305/704 3232",
+      "ContactEmail": "general.secretariat@concacaf.org",
+      "ContactFax": "+1-305/397 8813",
+      "ContactMediaCommunicationsPhone": "+1-305/704 3232",
+      "LocationPicture": null,
+      "OrderPosition": 2,
+      "Organisation": [
+        {
+          "IdOrganisationMember": "263198",
+          "IdConfederation": "CONCACAF",
+          "IdAssociation": "USA",
+          "DisplayName": [
+            {
+              "Locale": "en-GB",
+              "Description": "Yon DE LUISA"
+            }
+          ],
+          "FirstName": "Yon",
+          "LastName": "DE LUISA PLAZAS",
+          "DateOfBirth": "1970-04-07T00:00:00Z",
+          "Country": "MEX",
+          "Role": 4,
+          "RoleTypeDescription": [
+            {
+              "Locale": "en-GB",
+              "Description": "Vice President"
+            }
+          ],
+          "RoleBeginDate": "2025-02-06T00:00:00Z",
+          "RoleEndDate": null,
+          "OrganisationBeginDate": "2025-02-06T00:00:00Z"
+        },
+        {
+          "IdOrganisationMember": "197347",
+          "IdConfederation": "CONCACAF",
+          "IdAssociation": "USA",
+          "DisplayName": [
+            {
+              "Locale": "en-GB",
+              "Description": "Randy HARRIS"
+            }
+          ],
+          "FirstName": "Randolph Ashton",
+          "LastName": "HARRIS",
+          "DateOfBirth": "1955-02-27T00:00:00Z",
+          "Country": "BRB",
+          "Role": 4,
+          "RoleTypeDescription": [
+            {
+              "Locale": "en-GB",
+              "Description": "Vice President"
+            }
+          ],
+          "RoleBeginDate": "2019-05-13T00:00:00Z",
+          "RoleEndDate": null,
+          "OrganisationBeginDate": "2019-05-13T00:00:00Z"
+        },
+        {
+          "IdOrganisationMember": "402169",
+          "IdConfederation": "CONCACAF",
+          "IdAssociation": "USA",
+          "DisplayName": [
+            {
+              "Locale": "en-GB",
+              "Description": "Alejandro LESENDE"
+            }
+          ],
+          "FirstName": "Alejandro Daniel",
+          "LastName": "LESENDE",
+          "DateOfBirth": "1970-05-06T00:00:00Z",
+          "Country": "ARG",
+          "Role": 7,
+          "RoleTypeDescription": [
+            {
+              "Locale": "en-GB",
+              "Description": "Treasurer"
+            }
+          ],
+          "RoleBeginDate": "2016-01-01T00:00:00Z",
+          "RoleEndDate": null,
+          "OrganisationBeginDate": "2016-01-01T00:00:00Z"
+        },
+        {
+          "IdOrganisationMember": "395036",
+          "IdConfederation": "CONCACAF",
+          "IdAssociation": "USA",
+          "DisplayName": [
+            {
+              "Locale": "en-GB",
+              "Description": "Philippe MOGGIO"
+            }
+          ],
+          "FirstName": "Philippe Jean",
+          "LastName": "MOGGIO",
+          "DateOfBirth": "1973-03-23T00:00:00Z",
+          "Country": "USA",
+          "Role": 5,
+          "RoleTypeDescription": [
+            {
+              "Locale": "en-GB",
+              "Description": "General Secretary"
+            }
+          ],
+          "RoleBeginDate": "2016-06-13T00:00:00Z",
+          "RoleEndDate": null,
+          "OrganisationBeginDate": "2016-06-13T00:00:00Z"
+        },
+        {
+          "IdOrganisationMember": "236492",
+          "IdConfederation": "CONCACAF",
+          "IdAssociation": "USA",
+          "DisplayName": [
+            {
+              "Locale": "en-GB",
+              "Description": "Vittorio MONTAGLIANI"
+            }
+          ],
+          "FirstName": "Vittorio Emilio",
+          "LastName": "MONTAGLIANI",
+          "DateOfBirth": "1965-09-12T00:00:00Z",
+          "Country": "CAN",
+          "Role": 0,
+          "RoleTypeDescription": [
+            {
+              "Locale": "en-GB",
+              "Description": "President"
+            }
+          ],
+          "RoleBeginDate": "2016-05-18T00:00:00Z",
+          "RoleEndDate": null,
+          "OrganisationBeginDate": "2016-05-18T00:00:00Z"
+        },
+        {
+          "IdOrganisationMember": "177520",
+          "IdConfederation": "CONCACAF",
+          "IdAssociation": "USA",
+          "DisplayName": [
+            {
+              "Locale": "en-GB",
+              "Description": "Jason ROBERTS"
+            }
+          ],
+          "FirstName": "Jason Andre Davis",
+          "LastName": "ROBERT",
+          "DateOfBirth": "1978-01-25T00:00:00Z",
+          "Country": "GRN",
+          "Role": 9,
+          "RoleTypeDescription": [
+            {
+              "Locale": "en-GB",
+              "Description": "Technical Director"
+            }
+          ],
+          "RoleBeginDate": "2019-05-13T00:00:00Z",
+          "RoleEndDate": null,
+          "OrganisationBeginDate": "2019-05-13T00:00:00Z"
+        },
+        {
+          "IdOrganisationMember": "256227",
+          "IdConfederation": "CONCACAF",
+          "IdAssociation": "USA",
+          "DisplayName": [
+            {
+              "Locale": "en-GB",
+              "Description": "Rodolfo VILLALOBOS"
+            }
+          ],
+          "FirstName": "Luis Rodolfo",
+          "LastName": "VILLALOBOS MONTERO",
+          "DateOfBirth": "1967-12-15T00:00:00Z",
+          "Country": "CRC",
+          "Role": 4,
+          "RoleTypeDescription": [
+            {
+              "Locale": "en-GB",
+              "Description": "Vice President"
+            }
+          ],
+          "RoleBeginDate": "2016-05-18T00:00:00Z",
+          "RoleEndDate": null,
+          "OrganisationBeginDate": "2016-05-18T00:00:00Z"
+        }
+      ],
+      "NumberOfAssociations": 35,
+      "Properties": {
+        "IdIFES": "23914"
+      },
+      "IsUpdateable": null
+    },
+    {
+      "IdConfederation": "CONMEBOL",
+      "Name": [
+        {
+          "Locale": "en-GB",
+          "Description": "Confederación Sudamericana de Fútbol"
+        }
+      ],
+      "ConfederationAcronym": [
+        {
+          "Locale": "en-GB",
+          "Description": "CONMEBOL"
+        }
+      ],
+      "PictureUrl": "https://digitalhub.fifa.com/transform/85c030e2-20aa-44b1-a77e-c29f28377f27/CONMEBOL_update-131017",
+      "DarkPictureUrl": "https://digitalhub.fifa.com/transform/d615efb5-8e51-4ce9-8c93-5b27f53f0fa3/CONMEBOL",
+      "ThumbnailPictureUrl": null,
+      "Description": [
+        {
+          "Locale": "en-GB",
+          "Description": "CONMEBOL"
+        }
+      ],
+      "WebSite": "www.conmebol.com",
+      "Address": "Avda. Sudamericana y Valois Rivarola",
+      "AddressLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Autopista Aeropuerto Internacional - Km 12, Avenida Sudamericana"
+        }
+      ],
+      "CityName": "2060 LUQUE, GRAN ASUNCIÓN",
+      "CityNameLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "2060 LUQUE, GRAN ASUNCIÓN"
+        }
+      ],
+      "Country": "PAR",
+      "ContactBusinessPhone": "+595-21/517 2000",
+      "ContactEmail": "secretaria@conmebol.com",
+      "ContactFax": "+595-21/645 791",
+      "ContactMediaCommunicationsPhone": null,
+      "LocationPicture": null,
+      "OrderPosition": 3,
+      "Organisation": [
+        {
+          "IdOrganisationMember": "400816",
+          "IdConfederation": "CONMEBOL",
+          "IdAssociation": "PAR",
+          "DisplayName": [
+            {
+              "Locale": "en-GB",
+              "Description": "Jose ASTIGARRAGA"
+            }
+          ],
+          "FirstName": "Jose Manuel",
+          "LastName": "ASTIGARRAGA CAMPOS",
+          "DateOfBirth": "1964-03-27T00:00:00Z",
+          "Country": "PAR",
+          "Role": 5,
+          "RoleTypeDescription": [
+            {
+              "Locale": "en-GB",
+              "Description": "General Secretary"
+            }
+          ],
+          "RoleBeginDate": "2016-11-01T00:00:00Z",
+          "RoleEndDate": null,
+          "OrganisationBeginDate": "2016-11-01T00:00:00Z"
+        },
+        {
+          "IdOrganisationMember": "318554",
+          "IdConfederation": "CONMEBOL",
+          "IdAssociation": "PAR",
+          "DisplayName": [
+            {
+              "Locale": "en-GB",
+              "Description": "Alejandro DOMINGUEZ"
+            }
+          ],
+          "FirstName": "Alejandro Guillermo",
+          "LastName": "DOMÍNGUEZ WILSON SMITH",
+          "DateOfBirth": "1972-01-25T00:00:00Z",
+          "Country": "PAR",
+          "Role": 0,
+          "RoleTypeDescription": [
+            {
+              "Locale": "en-GB",
+              "Description": "President"
+            }
+          ],
+          "RoleBeginDate": "2016-01-26T00:00:00Z",
+          "RoleEndDate": null,
+          "OrganisationBeginDate": "2016-01-26T00:00:00Z"
+        },
+        {
+          "IdOrganisationMember": "417884",
+          "IdConfederation": "CONMEBOL",
+          "IdAssociation": "PAR",
+          "DisplayName": [
+            {
+              "Locale": "en-GB",
+              "Description": "Francisco EGAS"
+            }
+          ],
+          "FirstName": "Francisco Javier",
+          "LastName": "EGAS LARREATEGUI",
+          "DateOfBirth": "1977-01-01T00:00:00Z",
+          "Country": "ECU",
+          "Role": 4,
+          "RoleTypeDescription": [
+            {
+              "Locale": "en-GB",
+              "Description": "Vice President"
+            }
+          ],
+          "RoleBeginDate": "2025-01-28T00:00:00Z",
+          "RoleEndDate": null,
+          "OrganisationBeginDate": "2019-05-03T00:00:00Z"
+        },
+        {
+          "IdOrganisationMember": "174885",
+          "IdConfederation": "CONMEBOL",
+          "IdAssociation": "PAR",
+          "DisplayName": [
+            {
+              "Locale": "en-GB",
+              "Description": "Nery PUMPIDO"
+            }
+          ],
+          "FirstName": "Nery Alberto",
+          "LastName": "PUMPIDO",
+          "DateOfBirth": "1957-07-30T00:00:00Z",
+          "Country": "ARG",
+          "Role": 9,
+          "RoleTypeDescription": [
+            {
+              "Locale": "en-GB",
+              "Description": "Technical Director"
+            }
+          ],
+          "RoleBeginDate": "2026-05-11T00:00:00Z",
+          "RoleEndDate": null,
+          "OrganisationBeginDate": "2021-09-01T00:00:00Z"
+        }
+      ],
+      "NumberOfAssociations": 10,
+      "Properties": {
+        "IdIFES": "23915"
+      },
+      "IsUpdateable": null
+    }
+  ]
+}

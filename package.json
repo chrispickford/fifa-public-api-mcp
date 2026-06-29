@@ -1,0 +1,32 @@
+{
+  "name": "fifa-public-api-mcp",
+  "version": "0.1.0",
+  "description": "MCP server exposing the public FIFA data API (api.fifa.com/api/v3) as read-only tools",
+  "type": "module",
+  "bin": {
+    "fifa-public-api-mcp": "build/index.js"
+  },
+  "files": [
+    "build"
+  ],
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "build": "tsc && node -e \"import('node:fs').then(fs=>fs.chmodSync('build/index.js',0o755))\"",
+    "start": "node build/index.js",
+    "test": "vitest run",
+    "test:watch": "vitest",
+    "smoke": "tsx scripts/smoke.ts"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.12.0",
+    "zod": "^3.23.8"
+  },
+  "devDependencies": {
+    "@types/node": "^20.19.43",
+    "tsx": "^4.19.0",
+    "typescript": "^5.6.0",
+    "vitest": "^2.1.0"
+  }
+}

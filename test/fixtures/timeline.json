@@ -1,0 +1,344 @@
+{
+  "IdStage": "289273",
+  "IdMatch": "400021443",
+  "IdCompetition": "17",
+  "IdSeason": "285023",
+  "IdGroup": "289275",
+  "Event": [
+    {
+      "EventId": "1600191489",
+      "IdTeam": "43911",
+      "Timestamp": "2026-06-11T19:04:15.61Z",
+      "MatchMinute": "0'",
+      "Period": 2,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 79,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Coin Toss"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Mexico won the coin toss and chose to kick off"
+        }
+      ]
+    },
+    {
+      "EventId": "1681660928",
+      "Timestamp": "2026-06-11T19:05:51.028Z",
+      "MatchMinute": "0'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 7,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Start Time"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "The referee signals the start of the first period."
+        }
+      ]
+    },
+    {
+      "EventId": "1874042883",
+      "IdTeam": "43883",
+      "IdPlayer": "395050",
+      "Timestamp": "2026-06-11T19:08:30.417Z",
+      "MatchMinute": "3'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 71.79052,
+      "PositionY": 23.98955,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Aubrey MODIBA (South Africa) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "1904458753",
+      "IdTeam": "43911",
+      "IdPlayer": "464533",
+      "Timestamp": "2026-06-11T19:09:20.687Z",
+      "MatchMinute": "4'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 78.50336999999999,
+      "PositionY": 34.6852,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Brian GUTIERREZ (Mexico) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "1933475846",
+      "IdTeam": "43911",
+      "IdPlayer": "356731",
+      "Timestamp": "2026-06-11T19:09:55.222Z",
+      "MatchMinute": "5'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 84.75937,
+      "PositionY": 48.819341,
+      "GoalGatePositionX": 43.075415,
+      "GoalGatePositionY": 2.102198,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Raul JIMENEZ (Mexico) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "694122615",
+      "IdTeam": "43883",
+      "IdPlayer": "395986",
+      "Timestamp": "2026-06-11T19:09:55.762Z",
+      "MatchMinute": "5'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 57,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Goal Prevention"
+        }
+      ],
+      "PositionX": 98.41664,
+      "PositionY": 51.736692,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "The goalkeeper of South Africa pulls off a save."
+        }
+      ]
+    },
+    {
+      "EventId": "1959968769",
+      "IdTeam": "43911",
+      "IdPlayer": "464533",
+      "Timestamp": "2026-06-11T19:10:21.228Z",
+      "MatchMinute": "5'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 16,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Corner"
+        }
+      ],
+      "PositionX": 99.64038,
+      "PositionY": 98.50888,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Brian GUTIERREZ (Mexico) takes a corner kick."
+        }
+      ]
+    },
+    {
+      "EventId": "108447761",
+      "IdTeam": "43911",
+      "IdPlayer": "419518",
+      "Timestamp": "2026-06-11T19:14:19.886Z",
+      "MatchMinute": "9'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 1,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Assist"
+        }
+      ],
+      "PositionX": 79.14116,
+      "PositionY": 57.00746,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Assisted by Erik LIRA."
+        }
+      ]
+    },
+    {
+      "EventId": "61216777",
+      "IdTeam": "43911",
+      "IdPlayer": "429157",
+      "Timestamp": "2026-06-11T19:14:22.769Z",
+      "MatchMinute": "9'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 85.09963,
+      "PositionY": 55.264082,
+      "GoalGatePositionX": 48.803633000000005,
+      "GoalGatePositionY": 2.102198,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Julian QUINONES (Mexico) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "61216779",
+      "IdTeam": "43911",
+      "IdPlayer": "429157",
+      "Timestamp": "2026-06-11T19:14:22.769Z",
+      "MatchMinute": "9'",
+      "Period": 3,
+      "HomeGoals": 1,
+      "AwayGoals": 0,
+      "Type": 0,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Goal!"
+        }
+      ],
+      "PositionX": 85.09963,
+      "PositionY": 55.264082,
+      "GoalGatePositionX": 48.803633000000005,
+      "GoalGatePositionY": 2.102198,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Julian QUINONES (Mexico) scores!!"
+        }
+      ]
+    },
+    {
+      "EventId": "967645438",
+      "IdTeam": "43883",
+      "IdPlayer": "395986",
+      "Timestamp": "2026-06-11T19:14:23.11Z",
+      "MatchMinute": "9'",
+      "Period": 3,
+      "HomeGoals": 1,
+      "AwayGoals": 0,
+      "Type": 57,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Goal Prevention"
+        }
+      ],
+      "PositionX": 94.81308,
+      "PositionY": 52.037861,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "The goalkeeper of South Africa pulls off a save."
+        }
+      ]
+    },
+    {
+      "EventId": "1080126489",
+      "IdTeam": "43911",
+      "IdPlayer": "356731",
+      "Timestamp": "2026-06-11T19:15:41.028Z",
+      "MatchMinute": "10'",
+      "Period": 3,
+      "HomeGoals": 1,
+      "AwayGoals": 0,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Raul JIMENEZ (Mexico) commits a foul."
+        }
+      ]
+    }
+  ],
+  "Properties": {},
+  "IsUpdateable": null
+}
