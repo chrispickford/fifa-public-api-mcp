@@ -11,7 +11,7 @@ npm Trusted Publishing (OIDC): there is no npm token stored anywhere.
    claims the name `fifa-public-api-mcp`:
    ```bash
    npm whoami        # confirm you are logged in; run `npm login` if not
-   npm publish       # publishConfig already sets public access + provenance
+   npm publish --provenance=false  # provenance requires CI/OIDC; automated releases (via publish.yml) generate it
    ```
 3. On npmjs.com, open the package, then Settings, then Trusted Publisher. Link:
    - Repository: `chrispickford/fifa-public-api-mcp`

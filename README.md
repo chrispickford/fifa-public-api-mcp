@@ -61,8 +61,8 @@ Every tool accepts two optional args: `raw` (default `false`; return FIFA's unto
 | `list_seasons` | `idCompetition`, `count?` | `[{idSeason, name, startDate, endDate}]` |
 | `get_season` | `idSeason` | `{idSeason, name, dates, memberAssociations[], hostTeams[], pictureUrls}` |
 | `list_stages` | `idCompetition`, `idSeason` | `[{idStage, name}]` |
-| `list_countries` |  | `[{idCountry, name}]` |
-| `list_confederations` |  | `[{idConfederation, name}]` |
+| `list_countries` | none | `[{idCountry, name}]` |
+| `list_confederations` | none | `[{idConfederation, name}]` |
 | `get_matches` | `idCompetition`, `idSeason`, `idStage?`, `idGroup?`, `count?` | `{matches:[…]}` (see pagination note) |
 | `get_match_timeline` | `idCompetition`, `idSeason`, `idStage`, `idMatch` | `{idMatch, events:[…]}` |
 | `get_live_match` | `idCompetition`, `idSeason`, `idStage`, `idMatch` | `{idMatch, status, score, home, away, officials, attendance, weather}` |
