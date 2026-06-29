@@ -9,7 +9,7 @@ No API key or auth is required. The server speaks **stdio** only.
 
 ## Requirements
 
-- Node **18+** (uses built-in `fetch`).
+- Node **22+** (uses built-in `fetch`).
 
 ## Install (no clone, no build)
 
@@ -34,7 +34,7 @@ Claude Desktop: add this to `mcpServers` in your config:
 }
 ```
 
-`npx` downloads and caches the package on first use; later runs are offline-fast. Requires Node 18+
+`npx` downloads and caches the package on first use; later runs are offline-fast. Requires Node 22+
 on the PATH.
 
 ## Develop from source

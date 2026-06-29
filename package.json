@@ -1,6 +1,6 @@
 {
   "name": "fifa-public-api-mcp",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "description": "MCP server exposing the public FIFA data API (api.fifa.com/api/v3) as read-only tools",
   "keywords": [
     "mcp",
@@ -27,7 +27,7 @@
     "build"
   ],
   "engines": {
-    "node": ">=18"
+    "node": ">=22"
   },
   "publishConfig": {
     "access": "public",
@@ -49,6 +49,6 @@
     "@types/node": "^26.0.1",
     "tsx": "^4.19.0",
     "typescript": "^6.0.3",
-    "vitest": "^2.1.0"
+    "vitest": "^4.1.9"
   }
 }
