@@ -7,7 +7,14 @@
     "model-context-protocol",
     "fifa",
     "football",
-    "soccer"
+    "soccer",
+    "world-cup",
+    "live-scores",
+    "fixtures",
+    "sports",
+    "claude",
+    "ai",
+    "llm-tools"
   ],
   "homepage": "https://github.com/chrispickford/fifa-public-api-mcp#readme",
   "repository": {
