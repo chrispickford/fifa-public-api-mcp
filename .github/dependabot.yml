@@ -1,0 +1,14 @@
+version: 2
+updates:
+  # Keep the SHA-pinned GitHub Actions current: Dependabot opens a PR (updating
+  # both the pinned SHA and its version comment) when a new release ships.
+  - package-ecosystem: github-actions
+    directory: /
+    schedule:
+      interval: weekly
+
+  # Keep the npm dependencies current too.
+  - package-ecosystem: npm
+    directory: /
+    schedule:
+      interval: weekly
